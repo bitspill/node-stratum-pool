@@ -11,11 +11,11 @@
         "bitcoin",
         "litecoin",
         "scrypt",
-        "ziftrCOIN"
+        "ZiftrCOIN"
     ],
-    "homepage": "https://github.com/Ziftr/ziftr-node-stratum-pool",
+    "homepage": "https://github.com/ZiftrCOIN/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/Ziftr/ziftr-node-stratum-pool/issues"
+        "url": "https://github.com/ZiftrCOIN/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -26,10 +26,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ziftr/ziftr-node-stratum-pool.git"
+        "url": "https://github.com/ZiftrCOIN/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/Ziftr/ziftr-node-multi-hashing.git",
+        "multi-hashing": "git://github.com/ZiftrCOIN/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
