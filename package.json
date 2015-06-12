@@ -11,25 +11,27 @@
         "bitcoin",
         "litecoin",
         "scrypt",
-        "ZiftrCOIN"
+        "ZiftrCOIN",
+        "dropcoin"
     ],
-    "homepage": "https://github.com/ZiftrCOIN/node-stratum-pool",
+    "homepage": "https://github.com/bitspill/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/ZiftrCOIN/node-stratum-pool/issues"
+        "url": "https://github.com/bitspill/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
         "vekexasia",
-        "TheSeven"
+        "TheSeven",
+        "bitspill"
     ],
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ZiftrCOIN/node-stratum-pool.git"
+        "url": "https://github.com/bitspill/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ZiftrCOIN/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/bitspill/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
